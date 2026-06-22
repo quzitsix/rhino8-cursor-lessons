@@ -13,3 +13,10 @@ __pycache__/
 Thumbs.db
 .vscode/
 .idea/
+
+# 临时预览/日志（脚本运行产物）
+_preview.png
+_*.png
+_*_log.txt
+_capture*.py
+_rebuild*.py
