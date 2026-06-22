@@ -19,6 +19,7 @@
 | `lesson_06_curve_to_form.py` | 由曲线造形 | 挤出 / 旋转 / 放样 / 扫掠 |
 | `lesson_07_cli_control.py` | CLI 控制 | COM 与 rhinocode 外部自动化 |
 | `lesson_08_capstone_future_building.py` | 综合项目 | 由曲线生成未来建筑 |
+| `lesson_09_cologne_cathedral.py` | 综合进阶 | 参数化科隆大教堂（哥特尖塔/尖拱/玫瑰窗） |
 | `cli_batch_commands.txt` | 命令宏 | Rhino 命令行批处理 |
 
 ## 如何运行
